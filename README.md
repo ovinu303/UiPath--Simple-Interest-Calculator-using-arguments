@@ -1,0 +1,2 @@
+# UiPath--Simple-Interest-Calculator-using-arguments
+This project provides the functionality of a simple interest calculator using arguments. The user can enter an initial deposit amount, an interest rate, and then select the requisite deposit duration using a multiple choice form. The program will then output the net amount as well as interest the user will receive at the end of the deposit period.
